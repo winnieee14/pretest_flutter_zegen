@@ -1,10 +1,11 @@
-# zegen_test
+# Pre Test Flutter Project
 
-A new Flutter project.
+This Project is an aplication designed to display a list of Stranger Things series cast names using data from the public API.
 
-## Getting Started
+## Design
 
-This project is a starting point for a Flutter application.
+The Design of the Project can be viewed here:
+https://github.com/winnieee14/pretest_flutter_zegen/blob/main/DesignImg.png?raw=true
 
 A few resources to get you started if this is your first Flutter project:
 
