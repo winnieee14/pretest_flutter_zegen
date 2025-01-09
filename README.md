@@ -35,3 +35,8 @@ To get a local copy up and running follow these simple steps.
    ```sh
    flutter run
    ```
+
+## Refrence
+
+1. Refrence Code : https://youtu.be/MPTmJTK-rVs?si=0tClp5tC8KwJxiZn
+2. Api Actor/Actress Stranger Things : https://stranger-things-api.fly.dev/api/v1/characters
